@@ -135,7 +135,7 @@ Trilha DevOps: Linux CLI, Docker e containers, Git e GitHub, comunicações web.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmxx&layout=compact&card_width=400&theme=dracula" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmxx&layout=compact&card_width=400&theme=dracula&langs_count=8&hide=html,css,powershell,shell,dockerfile,hack" alt="Linguagens mais usadas"/>
 </p>
 
 ---
