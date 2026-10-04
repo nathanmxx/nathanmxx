@@ -42,13 +42,14 @@ I like understanding what happens underneath, so a lot of what you'll find here 
 
 ---
 
-### Áreas de interesse
+### Estudando agora
 
-- Desenvolvimento web back-end e APIs REST
-- Modelagem e consulta de banco de dados relacional
-- Lógica de programação e programação orientada a objetos
-- Automação de processos e linha de comando Linux
-- Desenvolvimento de jogos e computação gráfica
+- **Python**, aplicando em exercícios e projetos próprios
+- **Banco de dados relacional e não relacional**: SQL com JOIN e subconsultas, modelagem, e MongoDB
+- **Desenvolvimento web**: APIs REST e integração com banco de dados
+- **DevOps**: Docker, Linux e linha de comando
+
+Me interesso pelas áreas que juntam essas ferramentas: desenvolvimento back-end, trabalho com dados e automação de processos.
 
 ---
 
