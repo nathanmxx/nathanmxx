@@ -23,11 +23,22 @@
 
 Me chamo Nathan, tenho 16 anos e curso o 2º ano do ensino médio técnico em Informática nos Colégios UniVap, em São José dos Campos. Programo desde o 1º ano do curso e uso este perfil como meu caderno de obra: cada disciplina vira um repositório, e os projetos pessoais ficam ao lado dos trabalhos de escola.
 
-Trabalho principalmente com **desenvolvimento web** e **banco de dados**, que são as duas áreas em que mais me aprofundei até agora. Gosto de entender o que está acontecendo por baixo, então muita coisa aqui é feita sem framework de propósito.
+Trabalho principalmente com **desenvolvimento web**, **banco de dados** e **Python**, que são as áreas em que mais me aprofundei até agora. Gosto de entender o que está acontecendo por baixo, então muita coisa aqui é feita sem framework de propósito.
 
 Busco minha primeira oportunidade de **estágio** na área de desenvolvimento.
 
 📍 São José dos Campos, São Paulo, Brasil
+
+<details>
+<summary><b>Read in English</b></summary>
+
+<br>
+
+I'm Nathan, a 16-year-old technical high school student in Information Technology at Colégios UniVap, in São José dos Campos, Brazil. I work mainly with **web development**, **databases** and **Python**.
+
+I like understanding what happens underneath, so a lot of what you'll find here is built without frameworks on purpose. I'm currently looking for my first **internship** in software development.
+
+</details>
 
 ---
 
@@ -80,45 +91,14 @@ Busco minha primeira oportunidade de **estágio** na área de desenvolvimento.
 
 ---
 
-### Projetos em destaque
+### Projetos
 
-**[TCN_bots](https://github.com/nathanmxx/robocode) — campeão do Campeonato Robocode dos Colégios UniVap**
-
-Robô de combate autônomo em Java. Depois que a batalha começa ninguém toca em nada: o robô lê o radar, decide o movimento e escolhe a hora de atirar sozinho.
-
-- 1º lugar nas quatro fases do campeonato, incluindo 10 a 0 na semifinal
-- Movimentação por ondas (wave surfing) para desviar de tiros, com previsão da posição do inimigo
-- Código separado em radar, mira, movimento e escudo
-
----
-
-**[ArchView](https://github.com/nathanmxx/archview) — editor de plantas baixas com 3D**
-
-Aplicação web para desenhar plantas baixas em 2D e percorrer o resultado em 3D, em primeira pessoa. Projeto de feira técnica.
-
-- Node.js e Express no servidor, Three.js no navegador, banco SQLite embutido
-- Detecção automática de cômodos a partir das paredes desenhadas, com teste automatizado
-- Funciona sem internet, requisito por causa da rede da escola
-
----
-
-**[Gestor de Fretes](https://github.com/nathanmxx/gestor-de-fretes) — controle de fretes e despesas**
-
-Aplicação web para quem gerencia fretados e entregas de caminhão, um setor que trabalha com cobrança por litro transportado e não é atendido pelos apps genéricos de entrega.
-
-- HTML, CSS e JavaScript puro com ES Modules, sem framework e sem etapa de build
-- Cálculo automático de frete, lucro e depreciação do veículo por km rodado
-- Dados no localStorage com exportação e importação em CSV, publicado na Vercel
-
----
-
-**[API Condomínio](https://github.com/nathanmxx/programacao-avancada-para-web) — API REST com autenticação JWT**
-
-API para gestão de condomínio em PHP com Slim 4, feita na disciplina de Programação Avançada para WEB.
-
-- Seis recursos com CRUD completo, código em camadas (models, DAO, services, controllers, routes)
-- Autenticação por JWT com middleware protegendo as rotas, e front-end consumindo a API
-- Injeção de dependência com PHP-DI, erros padronizados em JSON e middleware de CORS
+| Projeto | O que é | Stack |
+|---|---|---|
+| **[TCN_bots](https://github.com/nathanmxx/robocode)** | Robô de combate autônomo. Campeão do Campeonato Robocode dos Colégios UniVap, 1º lugar nas quatro fases | Java |
+| **[ArchView](https://github.com/nathanmxx/archview)** | Editor de plantas baixas em 2D com passeio 3D em primeira pessoa | Node.js · Three.js · SQLite |
+| **[Gestor de Fretes](https://github.com/nathanmxx/gestor-de-fretes)** | Controle de fretes e despesas, com cálculo por litro e depreciação do veículo | JavaScript · ES Modules |
+| **[API Condomínio](https://github.com/nathanmxx/programacao-avancada-para-web)** | API REST em camadas com autenticação JWT | PHP · Slim 4 · MySQL |
 
 ---
 
