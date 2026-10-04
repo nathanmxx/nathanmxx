@@ -96,7 +96,6 @@ I like understanding what happens underneath, so a lot of what you'll find here 
 | Projeto | O que é | Stack |
 |---|---|---|
 | **[TCN_bots](https://github.com/nathanmxx/robocode)** | Robô de combate autônomo. Campeão do Campeonato Robocode dos Colégios UniVap, 1º lugar nas quatro fases | Java |
-| **[ArchView](https://github.com/nathanmxx/archview)** | Editor de plantas baixas em 2D com passeio 3D em primeira pessoa | Node.js · Three.js · SQLite |
 | **[Gestor de Fretes](https://github.com/nathanmxx/gestor-de-fretes)** | Controle de fretes e despesas, com cálculo por litro e depreciação do veículo | JavaScript · ES Modules |
 | **[API Condomínio](https://github.com/nathanmxx/programacao-avancada-para-web)** | API REST em camadas com autenticação JWT | PHP · Slim 4 · MySQL |
 
