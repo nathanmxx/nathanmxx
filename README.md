@@ -41,14 +41,14 @@ I like understanding what happens underneath, so a lot of what you'll find here 
 
 ---
 
-### Estudando agora
+### Áreas de interesse
 
-- **Python**, aplicando em exercícios e projetos próprios
-- **Banco de dados relacional e não relacional**: SQL com JOIN e subconsultas, modelagem, e MongoDB
-- **Desenvolvimento web**: APIs REST e integração com banco de dados
-- **DevOps**: Docker, Linux e linha de comando
+Áreas em que venho estudando e onde procuro atuar como **estagiário** ou **desenvolvedor júnior**:
 
-Me interesso pelas áreas que juntam essas ferramentas: desenvolvimento back-end, trabalho com dados e automação de processos.
+- **Desenvolvimento back-end**: APIs REST, regras de negócio e integração com banco de dados, em Python e PHP
+- **Banco de dados**: modelagem relacional, consultas SQL com JOIN e subconsultas, e bancos não relacionais com MongoDB
+- **Desenvolvimento web**: ligação entre front-end, API e banco de dados
+- **DevOps e automação de processos**: Docker, Linux e linha de comando
 
 ---
 
