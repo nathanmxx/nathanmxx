@@ -49,6 +49,7 @@ I like understanding what happens underneath, so a lot of what you'll find here 
 - **Banco de dados**: modelagem relacional, consultas SQL com JOIN e subconsultas, e bancos não relacionais com MongoDB
 - **Desenvolvimento web**: ligação entre front-end, API e banco de dados
 - **DevOps e automação de processos**: Docker, Linux e linha de comando
+- **Análise de dados**: tratamento e consulta de dados com Python e SQL
 
 ---
 
