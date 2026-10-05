@@ -20,11 +20,7 @@
 
 ### Sobre mim
 
-Me chamo Nathan, tenho 16 anos e curso o 2º ano do ensino médio técnico em Informática nos Colégios UniVap, em São José dos Campos. Programo desde o 1º ano do curso e uso este perfil como meu caderno de obra: cada disciplina vira um repositório, e os projetos pessoais ficam ao lado dos trabalhos de escola.
-
-Trabalho principalmente com **desenvolvimento web**, **banco de dados** e **Python**, que são as áreas em que mais me aprofundei até agora. Gosto de entender o que está acontecendo por baixo, então muita coisa aqui é feita sem framework de propósito.
-
-Busco minha primeira oportunidade de **estágio** na área de desenvolvimento.
+Me chamo Nathan, tenho 16 anos e curso o 2º ano do ensino médio técnico em Informática nos Colégios UniVap. Trabalho principalmente com **desenvolvimento web**, **banco de dados** e **Python**, e gosto de entender o que acontece por baixo, então muita coisa aqui é feita sem framework de propósito. Busco minha primeira oportunidade de **estágio** na área de desenvolvimento.
 
 📍 São José dos Campos, São Paulo, Brasil
 
@@ -33,9 +29,7 @@ Busco minha primeira oportunidade de **estágio** na área de desenvolvimento.
 
 <br>
 
-I'm Nathan, a 16-year-old technical high school student in Information Technology at Colégios UniVap, in São José dos Campos, Brazil. I work mainly with **web development**, **databases** and **Python**.
-
-I like understanding what happens underneath, so a lot of what you'll find here is built without frameworks on purpose. I'm currently looking for my first **internship** in software development.
+My name is Nathan. I am 16 years old and I study Information Technology at a technical high school in São José dos Campos, Brazil. I work mainly with **web development**, **databases** and **Python**. I like to understand how things work, so many of my projects are built without frameworks on purpose. I am looking for my first **internship** as a developer.
 
 </details>
 
@@ -110,7 +104,7 @@ I like understanding what happens underneath, so a lot of what you'll find here 
 Disciplinas cursadas: Linguagem Estruturada (C e C++), Programação Orientada a Objetos (Python), Banco de Dados (MySQL e MongoDB), Programação Avançada para WEB (PHP), Programação Visual Básica (C# e WPF), Desenvolvimento de Jogos (Unity), Sistemas Computacionais e Introdução à Programação.
 
 **Cursos complementares** — Alura
-Trilha DevOps: Linux CLI, Docker e containers, Git e GitHub, comunicações web.
+Trilha DevOps concluída: Linux CLI, Docker e containers, Git e GitHub, comunicações web. Sigo estudando pela plataforma, hoje com foco em Python e banco de dados.
 
 ---
 
