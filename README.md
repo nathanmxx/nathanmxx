@@ -20,7 +20,7 @@
 
 ### Sobre mim
 
-Me chamo Nathan, tenho 16 anos e curso o 2º ano do ensino médio técnico em Informática nos Colégios UniVap. Trabalho principalmente com **desenvolvimento web**, **banco de dados** e **Python**, e gosto de entender o que acontece por baixo, então muita coisa aqui é feita sem framework de propósito. Busco minha primeira oportunidade de **estágio** na área de desenvolvimento.
+Me chamo Nathan, tenho 16 anos e curso o 2º ano do ensino médio técnico em Informática nos Colégios UniVap. Trabalho principalmente com **desenvolvimento web**, **banco de dados** e **Python**, e gosto de entender o que acontece por baixo, então muita coisa aqui é feita sem framework de propósito. Procuro oportunidades que me façam evoluir e onde eu consiga mostrar o meu valor na prática.
 
 📍 São José dos Campos, São Paulo, Brasil
 
@@ -29,7 +29,7 @@ Me chamo Nathan, tenho 16 anos e curso o 2º ano do ensino médio técnico em In
 
 <br>
 
-My name is Nathan. I am 16 years old and I study Information Technology at a technical high school in São José dos Campos, Brazil. I work mainly with **web development**, **databases** and **Python**. I like to understand how things work, so many of my projects are built without frameworks on purpose. I am looking for my first **internship** as a developer.
+My name is Nathan. I am 16 years old and I study Information Technology at a technical high school in São José dos Campos, Brazil. I work mainly with **web development**, **databases** and **Python**. I like to understand how things work, so many of my projects are built without frameworks on purpose. I am looking for opportunities that help me grow and let me show what I can do.
 
 </details>
 
