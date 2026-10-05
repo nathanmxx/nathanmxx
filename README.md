@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Estudante de Técnico em Informática | Desenvolvimento de Sistemas</b><br>
-  Foco em desenvolvimento web, banco de dados e lógica de programação.
 </p>
 
 <p align="center">
