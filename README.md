@@ -20,7 +20,7 @@
 
 ### Sobre mim
 
-Me chamo Nathan, curso o 2º ano do ensino médio técnico em Informática nos Colégios Univap. Trabalho principalmente com **desenvolvimento web**, **banco de dados** e **Python**, e gosto de entender o que acontece por baixo, então muita coisa aqui é feita sem framework de propósito. Procuro oportunidades que me tirem da zona de conforto e onde eu possa provar o que já sou capaz de construir.
+Me chamo Nathan, e estou cursando o 2º ano do ensino médio técnico em Informática no Colégios Univap. Trabalho principalmente com **desenvolvimento web**, **banco de dados** e **Python**, e gosto de entender o que acontece por baixo, então muita coisa aqui é feita sem framework de propósito. Procuro oportunidades que me tirem da zona de conforto e onde eu possa provar o que já sou capaz de construir.
 
 📍 São José dos Campos, São Paulo, Brasil
 
