@@ -90,7 +90,7 @@ My name is Nathan. I am 16 years old and I study Information Technology at a tec
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[TCN_bots](https://github.com/nathanmxx/robocode)** | Robô de combate autônomo. Campeão do Campeonato Robocode dos Colégios UniVap, 1º lugar nas quatro fases | Java |
+| **[TCN_bots](https://github.com/nathanmxx/robocode)** | Robô de combate autônomo. Campeão do Campeonato Robocode dos Colégios UniVap, 1º lugar e 10 a 0 em todas as fases do um contra um | Java |
 | **[Gestor de Fretes](https://github.com/nathanmxx/gestor-de-fretes)** | Controle de fretes e despesas, com cálculo por litro e depreciação do veículo | JavaScript · ES Modules |
 | **[API Condomínio](https://github.com/nathanmxx/programacao-avancada-para-web)** | API REST em camadas com autenticação JWT | PHP · Slim 4 · MySQL |
 
