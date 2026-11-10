@@ -108,12 +108,6 @@ Trilha DevOps concluída: Linux CLI, Docker e containers, Git e GitHub, comunica
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmxx&layout=compact&card_width=400&theme=dracula&langs_count=8&hide=html,css,powershell,shell,dockerfile,hack" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ### Contato
 
 [LinkedIn](https://www.linkedin.com/in/nathan-miranda-xavier/) • nathanmx.work@gmail.com
